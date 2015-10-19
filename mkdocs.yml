@@ -1,0 +1,12 @@
+site_name: Twilio Wrapper Library
+site_description: A ready-made wrapper library based on Twilio that can be easily embedded into any system for the purpose of implementing customized call funciton.
+site_author: Fujio Harou
+pages:
+- Home: index.md
+- PHP: php.md
+- .NET (C#): dotnet.md
+- Python: python.md
+- Java: java.md
+- Ruby: ruby.md
+- NodeJS: nodejs.md
+theme: readthedocs
