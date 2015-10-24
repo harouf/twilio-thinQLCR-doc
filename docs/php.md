@@ -59,13 +59,13 @@ require_once __DIR__ . '/vendor/autoload.php';
 use TwilioWithThinQLCR\TwilioWrapper;
 
 
-$twilio_account_sid = "ACa5a21802beff96f147d40bf98c957038"
+$twilio_account_sid = "ACa5a21802beff96f147d40bf98c957038";
 
-$twilio_auth_token  = "7852c807435af28d468344ca57a49d2a"
+$twilio_auth_token  = "7852c807435af28d468344ca57a49d2a";
 
-$thinQ_id = "11001"
+$thinQ_id = "11001";
 
-$thinQ_token = "0c82a54f22f775a3ed8b97b2dea74036"
+$thinQ_token = "0c82a54f22f775a3ed8b97b2dea74036";
 
 
 $obj = new TwilioWrapper( $twilio_account_sid, $twilio_auth_token, $thinQ_id, $thinQ_token);
